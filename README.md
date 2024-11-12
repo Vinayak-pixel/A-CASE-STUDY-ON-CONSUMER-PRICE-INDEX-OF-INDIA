@@ -52,3 +52,7 @@ This analysis enables better understanding of CPI trends in India, supporting in
 ---
 
 **Note**: The full code and detailed explanations can be found in the project files.
+
+# Project Report
+
+For a comprehensive analysis, methodology, and findings, please refer to the complete project report. [Click here to view the report](https://github.com/Vinayak-pixel/A-CASE-STUDY-ON-CONSUMER-PRICE-INDEX-OF-INDIA/blob/main/Report/FINAL_REPORT.pdf).
