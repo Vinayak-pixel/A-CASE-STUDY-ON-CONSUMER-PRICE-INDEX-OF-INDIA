@@ -29,6 +29,26 @@ This project analyzes the Consumer Price Index (CPI) of India, a crucial economi
 ## Results and Conclusion
 This analysis enables better understanding of CPI trends in India, supporting inflation monitoring and decision-making. The project provides accurate forecasts and a comparative analysis of two distinct modeling approaches.
 
+## Forecast Visualizations
+
+- **Total CPI Forecast**:
+  ![Total CPI Forecast](./images/total_cpi_forecast.png)
+
+- **Food & Beverages Forecast**:
+  ![Food & Beverages Forecast](./images/food_and_beverages_forecast.png)
+
+- **Clothing & Footwear Forecast**:
+  ![Clothing & Footwear Forecast](./images/clothing_and_footwear_forecast.png)
+
+- **Medical Care Forecast**:
+  ![Medical Care Forecast](./images/medical_care_forecast.png)
+
+- **Transport & Communication Forecast**:
+  ![Transport & Communication Forecast](./images/transport_and_communication_forecast.png)
+
+- **Recreation & Amusement Forecast**:
+  ![Recreation & Amusement Forecast](./images/recreation_and_amusement_forecast.png)
+
 ---
 
 **Note**: The full code and detailed explanations can be found in the project files.
