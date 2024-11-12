@@ -1,4 +1,4 @@
-# Time Series and Regression Analysis of the Consumer Price Index (CPI) in India
+# A CASE STUDY ON CONSUMER PRICE INDEX OF INDIA
 
 ## Introduction
 This project analyzes the Consumer Price Index (CPI) of India, a crucial economic indicator reflecting the average change in prices paid by consumers for a basket of goods and services over time. CPI provides insights into inflation trends, impacting purchasing power. Our focus includes CPI components such as Food & Beverages, Clothing & Footwear, Medical Care, Transport & Communication, and Recreation & Amusement.
