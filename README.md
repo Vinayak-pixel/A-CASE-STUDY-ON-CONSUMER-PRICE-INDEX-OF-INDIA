@@ -1,4 +1,4 @@
-# A CASE STUDY ON CONSUMER PRICE INDEX OF INDIA
+# A CASE STUDY ON CONSUMER PRICE INDEX OF INDIA | Time Series, Regression | Python, R, Excel |
 
 ## Introduction
 This project analyzes the Consumer Price Index (CPI) of India, a crucial economic indicator reflecting the average change in prices paid by consumers for a basket of goods and services over time. CPI provides insights into inflation trends, impacting purchasing power. Our focus includes CPI components such as Food & Beverages, Clothing & Footwear, Medical Care, Transport & Communication, and Recreation & Amusement.
@@ -8,23 +8,74 @@ This project analyzes the Consumer Price Index (CPI) of India, a crucial economi
 2. Construct regression models for CPI to understand component impact on overall CPI.
 3. Compare forecasts derived from time series and regression analysis to assess model accuracy.
 
-## Methodology
-### 1. Time Series Analysis
-   - Time series techniques like ARIMA were applied to model and forecast the CPI and individual components.
-   - Key goals included analyzing trends, seasonality, and making accurate predictions.
+## Tech Stacks
 
-### 2. Regression Analysis
-   - Multiple Linear Regression (MLR) was used to quantify the impact of CPI components on the overall CPI.
-   - Regression coefficients provide insights into the influence of each component on inflation.
+- Python
+- R
+- Excel
+- Time Series Analysis
+- Regression Analysis
+- Data Cleaning & Preprocessing
+- Data Visualization
 
-### Data Source and Description
-- **Source**: CEIC Data
-- **Period**: January 2011 - January 2024
-- The dataset consists of CPI data and its five components, calculated using Laspeyres’s price index with 2012 as the base year.
+## Techniques Learnt
+- **Data Cleaning and Handling Missing Values**: Cleaning the CPI dataset and handling missing values appropriately.
+- **Model Tuning and Hyperparameter Selection**: Tuning models to improve accuracy.
+- **Time Series Decomposition**: Breaking down a time series into trend, seasonal, and residual components.
+- **ARIMA Modeling for Forecasting**: Building and evaluating ARIMA models for time series forecasting.
+- **SARIMA Modeling for Forecasting**: Building and evaluating SARIMA models for time series forecasting.
+- **Multiple Regression Analysis**: Building a multiple regression model to predict CPI using various components (e.g., Food, Housing, etc.). This technique involves examining the relationship between CPI and its predictor variables.
+- **Scree Plot**: Constructing a scree plot to visualize the variance explained by the principal components and decide the number of components to retain in PCA (Principal Component Analysis).
+- **Correlation Plot**: Creating a correlation plot to visually represent the correlation between multiple variables. This helps in identifying relationships between CPI and its components, and the strength of these relationships.
+- **Principal Component Analysis (PCA)**: Applying PCA to reduce dimensionality and extract key factors influencing CPI. PCA is a technique used to identify the most important variables (principal components) that explain the variance in the data.
+- **PACF (Partial Autocorrelation Function)**: Using PACF to identify the number of lags in time series data that exhibit significant partial autocorrelation. This helps in selecting the appropriate lag value for AR models.
+- **ACF (Autocorrelation Function)**: Using ACF to examine the autocorrelation of time series data and to identify patterns, such as seasonality or trends, in the data.
+- **Data Visualization in Excel**: Visualizing trends and patterns in the CPI data using Excel charts.
+- **Model Evaluation using AIC, RMSE**: Evaluating model performance with AIC (Akaike Information Criterion) and RMSE (Root Mean Squared Error).
 
-### Tools Used
-- **Programming Language**: Python
-- Libraries for statistical analysis, data visualization, and model evaluation were utilized.
+
+##  Terms
+
+- CPI (Consumer Price Index)
+- Inflation Rate
+- Forecasting
+- Time Series Data
+- Regression Coefficients
+- Seasonal Adjustments
+- Trend Analysis
+- Residual Analysis
+
+## Country’s Background
+
+This project is focused on the Consumer Price Index (CPI) of India, which tracks the average price level of a basket of goods and services consumed by households. CPI is a critical economic indicator used to assess inflation. Government and financial institutions use CPI data for policy decisions, and businesses use it for forecasting and planning.
+
+The analysis involves the Indian government’s CPI data and its five components, which include:
+- Food and Beverages
+- Medical Care
+- Clothing and Footwear
+- Transport and Communication
+- Recreation and Amusement
+## Dataset Understanding
+
+The CPI dataset consists of historical monthly data on the Consumer Price Index, spanning several years. Key columns in the dataset include:
+
+- Date (monthly data)
+- CPI Value (overall index and component indices)
+- Categories (Food, Housing, etc.)
+
+For the analysis, I used the dataset provided by [India's Ministry of Statistics and Programme Implementation](http://www.mospi.gov.in).
+
+## Importing Data
+
+- Data is sourced from publicly available CPI data from India's Ministry of Statistics.
+- The dataset was imported into Python using `pandas` for cleaning and processing.
+- Used `Excel` for visualizing trends and final report presentation.
+
+## Data Modeling
+
+- **Time Series Modeling**: The primary analysis involved forecasting CPI using ARIMA and SARIMA models.
+- **Regression Analysis**: Built a multiple regression model to study the relationship between CPI and its five components, providing insights into the factors affecting CPI.
+- **Principal Component Analysis (PCA)**: Applied PCA to reduce dimensionality and identify the most important factors driving CPI.
 
 ## Results and Conclusion
 This analysis enables better understanding of CPI trends in India, supporting inflation monitoring and decision-making. The project provides accurate forecasts and a comparative analysis of two distinct modeling approaches.
