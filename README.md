@@ -32,22 +32,22 @@ This analysis enables better understanding of CPI trends in India, supporting in
 ## Forecast Visualizations
 
 - **Total CPI Forecast**:
-  ![Total CPI Forecast](./images/total_cpi_forecast.png)
+  ![Total CPI Forecast](https://github.com/Vinayak-pixel/A-CASE-STUDY-ON-CONSUMER-PRICE-INDEX-OF-INDIA/blob/main/Resources/CPIT.png)
 
 - **Food & Beverages Forecast**:
-  ![Food & Beverages Forecast](./images/food_and_beverages_forecast.png)
+  ![Food & Beverages Forecast](https://github.com/Vinayak-pixel/A-CASE-STUDY-ON-CONSUMER-PRICE-INDEX-OF-INDIA/blob/main/Resources/CPIFB.png)
 
 - **Clothing & Footwear Forecast**:
-  ![Clothing & Footwear Forecast](./images/clothing_and_footwear_forecast.png)
+  ![Clothing & Footwear Forecast](https://github.com/Vinayak-pixel/A-CASE-STUDY-ON-CONSUMER-PRICE-INDEX-OF-INDIA/blob/main/Resources/CPICF.png)
 
 - **Medical Care Forecast**:
-  ![Medical Care Forecast](./images/medical_care_forecast.png)
+  ![Medical Care Forecast](https://github.com/Vinayak-pixel/A-CASE-STUDY-ON-CONSUMER-PRICE-INDEX-OF-INDIA/blob/main/Resources/CPIH.png)
 
 - **Transport & Communication Forecast**:
-  ![Transport & Communication Forecast](./images/transport_and_communication_forecast.png)
+  ![Transport & Communication Forecast](https://github.com/Vinayak-pixel/A-CASE-STUDY-ON-CONSUMER-PRICE-INDEX-OF-INDIA/blob/main/Resources/CPITC.png)
 
 - **Recreation & Amusement Forecast**:
-  ![Recreation & Amusement Forecast](./images/recreation_and_amusement_forecast.png)
+  ![Recreation & Amusement Forecast](https://github.com/Vinayak-pixel/A-CASE-STUDY-ON-CONSUMER-PRICE-INDEX-OF-INDIA/blob/main/Resources/CPIRA.png)
 
 ---
 
